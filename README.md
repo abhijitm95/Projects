@@ -1,2 +1,2 @@
 # Projects
-Machine learning projects
+Machine learning projects using different algorithms
