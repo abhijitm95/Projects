@@ -1,2 +1,2 @@
 # Projects
-Machine learning projects using different algorithms
+Academic and competitive machine learning projects.
